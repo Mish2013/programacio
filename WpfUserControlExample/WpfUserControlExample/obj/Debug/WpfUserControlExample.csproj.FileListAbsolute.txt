@@ -1,0 +1,70 @@
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe.config
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.pdb
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.g.cs
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.g.cs
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\App.g.cs
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.cache
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.lref
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.baml
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.baml
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.g.resources
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.Properties.Resources.resources
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.GenerateResource.cache
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.exe
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.pdb
+C:\Users\aprat\source\repos\WpfUserControlExample\WpfUserControlExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.g.cs
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.g.cs
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\App.g.cs
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.cache
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.lref
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.baml
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.exe
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.pdb
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe.config
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.pdb
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.baml
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.g.resources
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.Properties.Resources.resources
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.GenerateResource.cache
+C:\Institut Campalans\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csprojAssemblyReference.cache
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe.config
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.pdb
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.SuggestedBindingRedirects.cache
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.g.cs
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.g.cs
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\App.g.cs
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.cache
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.lref
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.baml
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.baml
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.g.resources
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.Properties.Resources.resources
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.GenerateResource.cache
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.CoreCompileInputs.cache
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.exe
+F:\Institut\Curs 19_20\DAM2_M07_Desenvolupament Interficies\UF1\UF1_4_ControlsPersonalitzats\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.pdb
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe.config
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.exe
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\bin\Debug\WpfUserControlExample.pdb
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.AssemblyReference.cache
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.SuggestedBindingRedirects.cache
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.g.cs
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.g.cs
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\App.g.cs
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.cache
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample_MarkupCompile.lref
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\LimitedInputUserControl.baml
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\MainWindow.baml
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.g.resources
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.Properties.Resources.resources
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.GenerateResource.cache
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.csproj.CoreCompileInputs.cache
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.exe
+G:\Institut Campalans\Curs 22_23\M13 Projecte DAM2\Repàs Git i Scrum\WpfUserControlExample\WpfUserControlExample\obj\Debug\WpfUserControlExample.pdb
